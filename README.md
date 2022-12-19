@@ -36,7 +36,9 @@ Kiến trúc là phần tôi yêu thích nhất, qua việc tôi tạo ra kiến
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   4 hrs 47 mins   ███████████████████░░░░░░   75.74 %
+Svelte       1 hr 26 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
