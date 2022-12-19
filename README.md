@@ -11,7 +11,6 @@ Xin chào, tôi là Tin Nguyen, một lập trình viên tự học đến từ 
 
 Kiến trúc là phần tôi yêu thích nhất, qua việc tôi tạo ra kiến trúc phần mềm tốt và tìm cách sử dụng lại nó một cách hiệu quả nhất có thể. Tôi tin rằng kiến trúc tốt sẽ giúp cho dự án dễ dàng mở rộng và dễ bảo trì hơn.
 
-Tôi cũng là người yêu quý nguồn mở và người quản lý nguồn mở. Tôi học được rất nhiều từ cộng đồng nguồn mở và tôi rất thích cách hợp tác và chia sẻ kiến thức thông qua nguồn mở.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/tinwritescode/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -42,9 +41,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
