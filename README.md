@@ -1,25 +1,17 @@
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/trungtin2001/">
+  <img align="left" alt="Tin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=tinwritescode.tinwritescode)
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Xin chào, tôi là Tin Nguyen, một lập trình viên tự học đến từ Việt Nam. Sở thích lập trình của tôi là sáng tạo ý tưởng và thực hiện chúng với giao diện đẹp. Tôi rất quan tâm đến trải nghiệm, kiến trúc và chất lượng mã nguồn của những gì tôi xây dựng.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Kiến trúc là phần tôi yêu thích nhất, qua việc tôi tạo ra kiến trúc phần mềm tốt và tìm cách sử dụng lại nó một cách hiệu quả nhất có thể. Tôi tin rằng kiến trúc tốt sẽ giúp cho dự án dễ dàng mở rộng và dễ bảo trì hơn.
 
+Tôi cũng là người yêu quý nguồn mở và người quản lý nguồn mở. Tôi học được rất nhiều từ cộng đồng nguồn mở và tôi rất thích cách hợp tác và chia sẻ kiến thức thông qua nguồn mở.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
