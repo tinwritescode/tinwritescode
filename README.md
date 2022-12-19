@@ -37,12 +37,7 @@ Tôi cũng là người yêu quý nguồn mở và người quản lý nguồn m
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   46 hrs 8 mins   ████████████████████████░   95.90 %
-JavaScript   1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-CSS          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
