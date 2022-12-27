@@ -36,11 +36,11 @@ Kiến trúc là phần tôi yêu thích nhất, qua việc tôi tạo ra kiến
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   21 hrs 7 mins   ███████████████████░░░░░░   76.64 %
-Svelte       2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Bash         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+TypeScript   20 hrs 24 mins  ███████████████████▓░░░░░   78.86 %
+Rust         1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Bash         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+JavaScript   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Other        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
