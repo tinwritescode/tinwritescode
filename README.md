@@ -7,9 +7,7 @@
 
 <br />
 
-Xin chào, tôi là Tin Nguyen, một lập trình viên tự học đến từ Việt Nam. Sở thích lập trình của tôi là sáng tạo ý tưởng và thực hiện chúng với giao diện đẹp. Tôi rất quan tâm đến trải nghiệm, kiến trúc và chất lượng mã nguồn của những gì tôi xây dựng.
-
-Kiến trúc là phần tôi yêu thích nhất, qua việc tôi tạo ra kiến trúc phần mềm tốt và tìm cách sử dụng lại nó một cách hiệu quả nhất có thể. Tôi tin rằng kiến trúc tốt sẽ giúp cho dự án dễ dàng mở rộng và dễ bảo trì hơn.
+Hello, my name is Tin Nguyen and I am a self-taught programmer from Vietnam. My passion is creating ideas and implementing them with beautiful interfaces, and I always care about the user experience, architecture, and code quality of what I build. In my programming passion, architecture is my favorite part. I focus on creating good software architecture and finding ways to use it effectively. I believe that good architecture will make the project easier to expand and maintain.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/tinwritescode/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -46,7 +44,7 @@ YAML         34 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-**repositories i worked on.*
+**repositories i worked on.**
 
 1. [boilerplate-svelte](https://github.com/tinwritescode/boilerplate-svelte): A svelte starter that I created to facilitate fast development.
 2. [boilerplate-nextjs](https://github.com/tinwritescode/boilerplate-nextjs): A Next.js starter that I made for the final advanced web course.
