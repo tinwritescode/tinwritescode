@@ -46,6 +46,23 @@ YAML         34 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+**repositories i worked on.*
+
+1. [boilerplate-svelte](https://github.com/tinwritescode/boilerplate-svelte): A svelte starter that I created to facilitate fast development.
+2. [boilerplate-nextjs](https://github.com/tinwritescode/boilerplate-nextjs): A Next.js starter that I made for the final advanced web course.
+3. [tradebook](https://github.com/tinwritescode/tradebook): A project that helps people record their crypto trading history.
+4. [rocket-rs-boilerplate](https://github.com/tinwritescode/rocket-rs-boilerplate): A starter for the Rocket framework (written in Rust).
+5. [nft_marketplace_solidity_yt](https://github.com/tinwritescode/nft_marketplace_solidity_yt): An NFT marketplace written in Next.js and Solidity, featured on my YouTube channel.
+6. [docker-mysql-nodejs](https://github.com/tinwritescode/docker-mysql-nodejs): A project using Docker, MySQL, and Node.js that I made in an advanced web course.
+7. [nvim](https://github.com/tinwritescode/nvim): My Neovim configuration (using nvimchad).
+8. [hcmus-moodle-improved](https://github.com/tinwritescode/hcmus-moodle-improved): A project that improves the layout of the school's Moodle website.
+9. [dotfiles](https://github.com/tinwritescode/dotfiles): My old Arch Linux dotfiles.
+10. [anchor-the-vault](https://github.com/tinwritescode/anchor-the-vault): A Solana vault implementation.
+11. [nextjs-k3-near-decentrablog](https://github.com/tinwritescode/nextjs-k3-near-decentrablog): A blog written in Rust and deployed to the NEAR protocol.
+12. [get-phimmoi-info](https://github.com/tinwritescode/get-phimmoi-info): A project that crawls movie titles from phimmoi.
+13. [taytrongbantay](https://github.com/tinwritescode/taytrongbantay): A demo of taytrongbantay in Next.js.
+14. [OOP-SnakeGame](https://github.com/tinwritescode/OOP-SnakeGame): A snake game made for an object-oriented programming course.
+15. [codersx-basic-javascript](https://github.com/tinwritescode/codersx-basic-javascript): A project for the CodersX basic JavaScript course.
 
 
 📈 my github stats
