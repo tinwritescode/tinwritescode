@@ -8,13 +8,6 @@
 <br />
 
 Hello, my name is Tin Nguyen and I am a self-taught programmer from Vietnam. My passion is creating ideas and implementing them with beautiful interfaces, and I always care about the user experience, architecture, and code quality of what I build. In my programming passion, architecture is my favorite part. I focus on creating good software architecture and finding ways to use it effectively. I believe that good architecture will make the project easier to expand and maintain.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/tinwritescode/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:hopthucuatin@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -29,6 +22,11 @@ Hello, my name is Tin Nguyen and I am a self-taught programmer from Vietnam. My 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/tinwritescode/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:hopthucuatin@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
