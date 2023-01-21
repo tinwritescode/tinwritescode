@@ -8,6 +8,7 @@
 <br />
 
 Hello, my name is Tin Nguyen and I am a self-taught programmer from Vietnam. My passion is creating ideas and implementing them with beautiful interfaces, and I always care about the user experience, architecture, and code quality of what I build. In my programming passion, architecture is my favorite part. I focus on creating good software architecture and finding ways to use it effectively. I believe that good architecture will make the project easier to expand and maintain.
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
