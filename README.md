@@ -33,11 +33,11 @@ Hello, my name is Tin Nguyen and I am a self-taught programmer from Vietnam. My 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    40 hrs 18 mins  █████████████████████▓░░░   86.52 %
-JSON          2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-JavaScript    1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Other         46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Text          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+TypeScript    41 hrs 43 mins  ██████████████████████▒░░   89.44 %
+JSON          2 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+JavaScript    41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Bash          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
