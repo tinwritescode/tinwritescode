@@ -1,6 +1,6 @@
 ### hey there 
 <a href="https://www.linkedin.com/in/trungtin2001/">
-  <img align="left" alt="Tin's LinkedIN" width="22px" src="https://camo.githubusercontent.com/5e276c6fba1d9ca47f6fece34740b3de2884779ab8bb240c71123c467adc5936/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
+  <img align="left" alt="Tin's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tinwritescode.tinwritescode)
