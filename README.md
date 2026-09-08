@@ -35,7 +35,7 @@ Hello, my name is Tin Nguyen and I am a self-taught programmer from Vietnam. My 
 ```txt
 TypeScript   11 hrs 14 mins        █████████████▓░░░░░░░░░░░   54.91 %
 Other        3 hrs 51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Markdown     2 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Markdown     2 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
 Dart         1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 JSON         1 hr 1 min            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
