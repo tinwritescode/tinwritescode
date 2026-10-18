@@ -24,10 +24,12 @@ Hello, my name is Tin Nguyen and I am a self-taught programmer from Vietnam. My 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-  <img align="right" alt="coding" src="code.gif" width="500" height="320" />
-  
 - 💼 any freelance work? do reach, [email](mailto:hopthucuatin@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+
+<p align="center">
+  <img alt="coding" src="code.gif" width="500" />
+</p>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
