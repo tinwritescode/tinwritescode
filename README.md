@@ -51,8 +51,7 @@ Swift         1 hr 14 mins          ▓░░░░░░░░░░░░░�
 5. [mocaverse](https://github.com/tinwritescode/mocaverse)
 6. [mocaverse-nft-gate](https://github.com/tinwritescode/mocaverse-nft-gate)
 7. [launchpad-app](https://github.com/tinwritescode/launchpad-app)
-8. [openclaw-railway-template-bsjQ](https://github.com/tinwritescode/openclaw-railway-template-bsjQ)
-9. [taytrongbantay](https://github.com/tinwritescode/taytrongbantay): A demo of taytrongbantay in Next.js.
+8. [taytrongbantay](https://github.com/tinwritescode/taytrongbantay): A demo of taytrongbantay in Next.js.
 
 
 📈 my github stats
