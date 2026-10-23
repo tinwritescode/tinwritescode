@@ -54,6 +54,7 @@ Swift         1 hr 14 mins          ██░░░░░░░░░░░░�
 6. [mocaverse-nft-gate](https://github.com/tinwritescode/mocaverse-nft-gate)
 7. [launchpad-app](https://github.com/tinwritescode/launchpad-app)
 8. [taytrongbantay](https://github.com/tinwritescode/taytrongbantay): A demo of taytrongbantay in Next.js.
+9. [git-tree-compare](https://github.com/tinwritescode/git-tree-compare): A macOS app that shows what a branch changes, file by file, against its base. Review files, read PR comments inline, and install updates in place.
 
 
 📈 my github stats
