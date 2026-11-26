@@ -1,37 +1,94 @@
-### hey there 
-<a href="https://www.linkedin.com/in/trungtin2001/">
-  <img align="left" alt="Tin's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=tinwritescode.tinwritescode)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=hey%2C+i'm+Tin+%F0%9F%91%8B;self-taught+engineer+from+Vietnam;i+build+tools+for+devs+and+AI+agents" alt="typing intro" />
 
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trungtin2001/)
+[![Email](https://img.shields.io/badge/Freelance-hopthucuatin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hopthucuatin@gmail.com)
+![](https://komarev.com/ghpvc/?username=tinwritescode&style=flat-square&color=grey&label=views)
 
-Hello, my name is Tin Nguyen and I am a self-taught programmer from Vietnam. My passion is creating ideas and implementing them with beautiful interfaces, and I always care about the user experience, architecture, and code quality of what I build. In my programming passion, architecture is my favorite part. I focus on creating good software architecture and finding ways to use it effectively. I believe that good architecture will make the project easier to expand and maintain.
+I care about architecture, user experience and code quality.<br/>Good architecture makes a project easy to grow and easy to keep alive.
 
-**languages and tools:**  
+<img src="https://skillicons.dev/icons?i=ts,rust,svelte,go,react,nextjs,nodejs,graphql,flutter,tauri,supabase,postgres,cpp,firebase,git&perline=8" alt="skills" />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/svelte-icon.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</div>
 
-- 💼 any freelance work? do reach, [email](mailto:hopthucuatin@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+### ✨ projects
 
-<p align="center">
-  <img alt="coding" src="code.gif" width="500" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📊 **this week i spent my time on:**
+**📖 [moingaymotdoan](https://github.com/tinwritescode/moingaymotdoan)**<br/>
+Mỗi Ngày Một Đoạn, a non-profit, open-source Vietnamese Bible study app. [moingaymotdoan.xyz](https://moingaymotdoan.xyz)
+
+</td>
+<td width="50%" valign="top">
+
+**🛰️ [n2t-code](https://github.com/tinwritescode/n2t-code)**<br/>
+Unofficial fork of [T3 Code](https://github.com/pingdotgg/t3code). Drive Claude Code, Codex and more from any computer or phone.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🌧️ [rain](https://github.com/tinwritescode/rain)**<br/>
+Calm-senior backend mode for AI coding agents. Boring code that survives 2am.
+
+</td>
+<td valign="top">
+
+**🌳 [git-tree-compare](https://github.com/tinwritescode/git-tree-compare)**<br/>
+macOS app that shows what a branch changes, file by file, with PR comments inline.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**✍️ [ugrammar](https://github.com/tinwritescode/ugrammar)**<br/>
+Grammar fixes in every text field on your Mac. Select, ⌥⌘G, apply.
+
+</td>
+<td valign="top">
+
+**📚 [ereader-ai](https://github.com/tinwritescode/ereader-ai)**<br/>
+Reading app for iPhone and the web. AI shortens each chapter to fit your time, or reads it aloud.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🎸 [hop-am-free](https://github.com/tinwritescode/hop-am-free)**<br/>
+Hợp Âm Free, a Vietnamese chord site with AI helpers.
+
+</td>
+<td valign="top">
+
+**💸 [cap-your-cash](https://github.com/tinwritescode/cap-your-cash)**<br/>
+Photo-first money diary: snap a photo, log what you spent or earned.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🎧 [eleven-downloader-pro](https://github.com/tinwritescode/eleven-downloader-pro)**<br/>
+ScriptCat userscript that saves ElevenReader and ElevenLabs audio streams.
+
+</td>
+<td valign="top">
+
+**🎨 [fuji-canvas-studio](https://github.com/tinwritescode/fuji-canvas-studio)**<br/>
+Fuji canvas studio.
+
+</td>
+</tr>
+</table>
+
+### 📊 this week
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -44,20 +101,7 @@ Text          1 hrs 19 mins         █▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-**repositories i worked on.**
-
-1. [moingaymotdoan](https://github.com/tinwritescode/moingaymotdoan): Mỗi Ngày Một Đoạn, a non-profit, open-source Vietnamese Bible study app. [moingaymotdoan.xyz](https://moingaymotdoan.xyz)
-2. [n2t-code](https://github.com/tinwritescode/n2t-code): An unofficial fork of [T3 Code](https://github.com/pingdotgg/t3code) for controlling Claude Code, Codex and more from any computer or phone.
-3. [rain](https://github.com/tinwritescode/rain): Calm-senior backend mode for AI coding agents. Boring code that survives 2am.
-4. [eleven-downloader-pro](https://github.com/tinwritescode/eleven-downloader-pro): ScriptCat userscript that captures and saves audio streams from ElevenReader and ElevenLabs.
-5. [hop-am-free](https://github.com/tinwritescode/hop-am-free): Hợp Âm Free, a Vietnamese chord site with AI helpers.
-6. [git-tree-compare](https://github.com/tinwritescode/git-tree-compare): A macOS app that shows what a branch changes, file by file, against its base. Review files, read PR comments inline, and install updates in place.
-7. [ugrammar](https://github.com/tinwritescode/ugrammar): Grammar fixes in every text field on your Mac.
-8. [ereader-ai](https://github.com/tinwritescode/ereader-ai): A reading app for iPhone and the web. AI shortens each chapter to fit the time you have, or reads it aloud.
-9. [cap-your-cash](https://github.com/tinwritescode/cap-your-cash): A photo-first money diary: snap a photo, log what you spent or earned. [cap-your-cash.lovable.app](https://cap-your-cash.lovable.app)
-10. [fuji-canvas-studio](https://github.com/tinwritescode/fuji-canvas-studio): Fuji canvas studio.
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tinwritescode&show_icons=true&theme=gotham" alt="GitHub stats" /> </p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tinwritescode&show_icons=true&theme=gotham&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinwritescode&layout=compact&theme=gotham&hide_border=true" alt="Top languages" />
+</p>
