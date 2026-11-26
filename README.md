@@ -67,7 +67,7 @@ Hợp Âm Free, a Vietnamese chord site with AI helpers.
 <td valign="top">
 
 **💸 [cap-your-cash](https://github.com/tinwritescode/cap-your-cash)**<br/>
-Photo-first money diary: snap a photo, log what you spent or earned.
+CapMoney, a photo-first money diary. [money.tyvn.online](https://money.tyvn.online)
 
 </td>
 </tr>
