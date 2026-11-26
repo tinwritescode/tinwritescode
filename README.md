@@ -46,15 +46,16 @@ Text          1 hrs 19 mins         █▒░░░░░░░░░░░░�
 
 **repositories i worked on.**
 
-1. [revu](https://github.com/tinwritescode/revu): Terminal UI for reviewing a pull request locally, commit by commit.
-2. [fuji-canvas-studio](https://github.com/tinwritescode/fuji-canvas-studio): Fuji canvas studio.
-3. [ugrammar](https://github.com/tinwritescode/ugrammar)
-4. [hcmus-moodle-improved](https://github.com/tinwritescode/hcmus-moodle-improved): A project that improves the layout of the school's Moodle website.
-5. [mocaverse](https://github.com/tinwritescode/mocaverse)
-6. [mocaverse-nft-gate](https://github.com/tinwritescode/mocaverse-nft-gate)
-7. [launchpad-app](https://github.com/tinwritescode/launchpad-app)
-8. [taytrongbantay](https://github.com/tinwritescode/taytrongbantay): A demo of taytrongbantay in Next.js.
-9. [git-tree-compare](https://github.com/tinwritescode/git-tree-compare): A macOS app that shows what a branch changes, file by file, against its base. Review files, read PR comments inline, and install updates in place.
+1. [moingaymotdoan](https://github.com/tinwritescode/moingaymotdoan): Mỗi Ngày Một Đoạn, a non-profit, open-source Vietnamese Bible study app. [moingaymotdoan.xyz](https://moingaymotdoan.xyz)
+2. [n2t-code](https://github.com/tinwritescode/n2t-code): An unofficial fork of [T3 Code](https://github.com/pingdotgg/t3code) for controlling Claude Code, Codex and more from any computer or phone.
+3. [rain](https://github.com/tinwritescode/rain): Calm-senior backend mode for AI coding agents. Boring code that survives 2am.
+4. [eleven-downloader-pro](https://github.com/tinwritescode/eleven-downloader-pro): ScriptCat userscript that captures and saves audio streams from ElevenReader and ElevenLabs.
+5. [hop-am-free](https://github.com/tinwritescode/hop-am-free): Hợp Âm Free, a Vietnamese chord site with AI helpers.
+6. [git-tree-compare](https://github.com/tinwritescode/git-tree-compare): A macOS app that shows what a branch changes, file by file, against its base. Review files, read PR comments inline, and install updates in place.
+7. [ugrammar](https://github.com/tinwritescode/ugrammar): Grammar fixes in every text field on your Mac.
+8. [ereader-ai](https://github.com/tinwritescode/ereader-ai): A reading app for iPhone and the web. AI shortens each chapter to fit the time you have, or reads it aloud.
+9. [cap-your-cash](https://github.com/tinwritescode/cap-your-cash): A photo-first money diary: snap a photo, log what you spent or earned. [cap-your-cash.lovable.app](https://cap-your-cash.lovable.app)
+10. [fuji-canvas-studio](https://github.com/tinwritescode/fuji-canvas-studio): Fuji canvas studio.
 
 
 📈 my github stats
