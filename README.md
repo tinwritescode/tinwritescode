@@ -92,11 +92,11 @@ Fuji canvas studio.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      8 hrs 19 mins         ████████▒░░░░░░░░░░░░░░░░   33.17 %
-Typescript    6 hrs 54 mins         ███████░░░░░░░░░░░░░░░░░░   27.47 %
-TSX           4 hrs 16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Text          1 hrs 33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Json          0 hrs 54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Markdown      7 hrs 10 mins         ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+Typescript    6 hrs 4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+TSX           4 hrs 8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+Text          1 hrs 33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Json          0 hrs 54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
